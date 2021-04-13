@@ -6,6 +6,7 @@ It is based on the links which are marked as deprecated and can be found under:
 * https://www.eclipse.org/articles/article.php?file=Article-BIRT-ExtensionTutorial1/index.html
 * https://www.eclipse.org/articles/article.php?file=Article-BIRT-ExtensionTutorial2/index.html
 
+Changes from the previous version to this one:
 * Thouse examples used java version 1.5 but this iplementation is based on java in the vesrion 1.8.
 * Also the plug-in dependencies from the MANIFEST.MF are changed, the version number of the dependend plug-ins are increased.
 
